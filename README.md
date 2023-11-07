@@ -78,5 +78,11 @@ Output:
 ![270736789-98d6405f-b231-485b-b7c5-38e605977906](https://github.com/prithviraj5703/Ex-5-Creating-Triggers-using-PL-SQL/assets/121418418/4686eafa-3d97-434d-82f0-969911caf8e9)
 
 
+![270736840-c1caabb7-a19c-44b3-9343-e135eafc4d07](https://github.com/prithviraj5703/Ex-5-Creating-Triggers-using-PL-SQL/assets/121418418/1ec3c208-26b7-488f-a74f-36bc0bed6baf)
+
+
+
+
+
 Result:
 The program has been implemented successfully
